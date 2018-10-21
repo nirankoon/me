@@ -2,17 +2,12 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to **mysite**, _follow me on fb_, or ~~instagram~~.
 
-[About me](./another-page.html)  [About me](./another-page.html)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
